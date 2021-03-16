@@ -838,6 +838,7 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+        background-color: none;
     }
 }
 @media (max-width: 320px){
